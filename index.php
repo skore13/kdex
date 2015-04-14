@@ -110,7 +110,7 @@ $sql = new SQLite3("data/data.sqlite");
 		</form>
 	<?php endif ?>
 	<br><br><br>
-	&copy;Created by skore13 in 2015
+	&copy;Created by skore13 in 2015 <a href="https://github.com/skore13/kdex">https://github.com/skore13/kdex</a>
 </body>
 </html><?php
 $sql->close();
